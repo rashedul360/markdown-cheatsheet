@@ -1,5 +1,3 @@
-<!-- এভাবে যত # দিবেন সেহিসেবে হেডিং আসবে  -->
-
 # আজকে আমরা শিখব গিটহাব মার্কডাউন সম্পর্কে ।
 
 Writer: [Rashedul islam ](https://www.facebook.com/rashedul2004)
@@ -133,15 +131,36 @@ this is line where this **world** will be bo**LD**
 
 ~~strikethrough বা লেখা কেটে দেওয়া~~
 
-###### এটা ভাল করে লেখব হাহা
+###### blockquote তৈরি করাবো কিভাবে ?
 
-<!-- blockquote তৈরি করার উপায়  -->
-<!-- ওভাবেও হয় তবে আমরা এভাবে করব না । markdown এ কেন এইচটিএমএল লেখব  -->
-<blockquote>lorem doctor
+##### অথবা
+
+```markdown
+> lorem ipsum
+>
+> > lorem ipsum
+> >
+> > > lorem ipsum
+> > >
+> > > > lorem ipsum
+```
+
+### আউটপুট
+
+> lorem ipsum
+>
+> > lorem ipsum
+> >
+> > > lorem ipsum
+> > >
+> > > > lorem ipsum
+
+<!-- ওভাবেও হয় তবে আমরা এভাবে করব না । markdown এ কেন এইচটিএমএল লেখব -->
+<!-- <blockquote>lorem doctor
    <blockquote>lorem doctor
        <blockquote>lorem doctor</blockquote>
    </blockquote>
-</blockquote>
+</blockquote> -->
 
 ### কিভাবে আমরা একটা লিস্ট তৈরি করতে পারি ?
 
