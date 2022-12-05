@@ -1,4 +1,4 @@
-# আজকে আমরা শিখব গিটহাব মার্কডাউন সম্পর্কে ।
+# আজকে আমরা শিখব মার্কডাউন সম্পর্কে ।
 
 Writer: [Rashedul islam ](https://www.facebook.com/rashedul2004)
 Last updated: 5 dec 2022
